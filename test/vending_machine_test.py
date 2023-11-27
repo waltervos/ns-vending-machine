@@ -1,6 +1,6 @@
-from hamcrest import assert_that, equal_to
-from vending_machine import VendingMachine, Choice, Can
 import pytest
+from hamcrest import assert_that, equal_to
+from vending_machine import Can, Choice, VendingMachine
 
 
 class TestVendingMachine:

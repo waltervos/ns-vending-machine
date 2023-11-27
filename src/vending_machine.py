@@ -1,5 +1,6 @@
 from enum import Enum
-  
+
+
 class Choice(Enum):
   COKE = "Coke choice"
   FIZZY_ORANGE = "Fizzy orange choice"
